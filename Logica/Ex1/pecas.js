@@ -8,9 +8,9 @@
 // Inicio de declaração de variáveis
 let msnErro = ". **A PEÇA NÃO SERÁ CADASTRADA**" // Complento de mensagem de erro para evidar repetição
 let msnConfirma = " dentro do padrão permitido. **A PEÇA SERÁ CADASTRADA**" // Complento de mensagem de confirmação para evidar repetição
-let pesoPeca  =  53  // peso deve ser maior que 100
+let pesoPeca  =  153  // peso deve ser maior que 100
 let nomePeca  =  "Fita isolante"  // tamanho do nome deve ser maior que 2 caracteres
-let quantidadePecas  =  35  // quantidade de peças não pode ser maior que 10
+let quantidadePecas  =  5  // quantidade de peças não pode ser maior que 10
 // Final de declaração de variáveis
 
 // Inicio daas consistências
